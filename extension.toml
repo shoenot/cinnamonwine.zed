@@ -1,0 +1,7 @@
+id = "cinnamonwine"
+name = "Cinnamon Wine"
+description = "A cinnamon-y, fall-inspired color scheme. Tries to harken back to the DEC VT320 aesthetic."
+version = "0.1.0"
+schema_version = 1
+authors = ["shoenot"]
+repository = "https://github.com/shoenot/cinnamonwine.nvim"
